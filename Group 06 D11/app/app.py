@@ -6,7 +6,7 @@ app = Flask(__name__)
 VERSION = os.getenv("APP_VERSION", "v1")
 
 @app.route("/")
-def home():
+def hoME():
     return f"Manufacturing App running - Version {VERSION}"
 
 @app.route("/status")
@@ -23,3 +23,4 @@ def health():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
