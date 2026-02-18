@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
       - name: manufacturing-container
-        image: your-dockerhub-username/manufacturing-app:v1
+        image: aaditibhale/manufacturing-app:v1
         ports:
         - containerPort: 5000
         readinessProbe:
@@ -34,3 +34,4 @@ spec:
             port: 5000
           initialDelaySeconds: 10
           periodSeconds: 20
+
