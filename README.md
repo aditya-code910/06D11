@@ -1,5 +1,4 @@
-# Manufacturing App Deployment on Kubernetes  
-Group: 06 D11 
+# Manufacturing App Deployment on Kubernetes  Group: 06 D11 
 
 ## Description:
 This project demonstrates containerizing and deploying a Python Flask-based Manufacturing Application on Kubernetes with rolling updates, self-healing, and zero-downtime deployment.
