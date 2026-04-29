@@ -76,7 +76,7 @@ http://localhost:30007
 
  1. Containerization Completed  
  2. Docker Hub Integration Completed  
- 3. Kubernetes Deployment Completed  
+ 3. Kubernetes Deployment Completed 
  4. Rolling Updates Implemented  
  5. Self-Healing Verified  
  6. Scaling Verified
